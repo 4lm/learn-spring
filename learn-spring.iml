@@ -4,7 +4,7 @@
     <facet type="hibernate" name="Hibernate">
       <configuration>
         <datasource-map>
-          <unit-entry name="sessionFactory" />
+          <unit-entry name="sessionFactory" value="be4f8866-0821-48e4-9e96-dcd1493988b4" />
         </datasource-map>
         <naming-strategy-map />
       </configuration>
@@ -41,5 +41,6 @@
     <orderEntry type="library" name="Hibernate 5.4.10-5.4.10" level="project" />
     <orderEntry type="library" name="Spring-5.2.3.RELEASE" level="project" />
     <orderEntry type="library" name="Spring MVC-5.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="jstl:jstl:1.2" level="project" />
   </component>
 </module>
